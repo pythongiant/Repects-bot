@@ -1,0 +1,15 @@
+{
+  "name": "Respects-bot",
+  "version": "1.0.0",
+  "description": "Press F to pay respects",
+  "main": "index.js",
+  "repository": "https://github.com/pythongiant/Repects-bot",
+  "author": "pythongiant",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "firebase": "^5.7.0",
+    "node-telegram-bot-api": "^0.30.0",
+    "open-graph-scraper": "^3.6.0"
+  }
+}
